@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mervat_Udacity_01</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinner_items">
+        <item>Most Popular</item>
+        <item>Highest Rated</item>
+    </string-array>
+</resources>
